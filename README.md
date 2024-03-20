@@ -8,5 +8,6 @@ A few things to consider when using this code:
   3. Change/remove the first line depending on your Python environment.
   4. Your planewave cutoff energy should be 520 eV to be compatible with OQMD.
   5. The atomic potentials of actinides were calculated from our previous work.
-
+  6. Also, yes, this is 0 K enthalpy of formation.
+  
 Good Luck!
